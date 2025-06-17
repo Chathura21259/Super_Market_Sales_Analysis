@@ -1,1 +1,1 @@
-# Super_Market_Sales_Analysis
+# The data was downloaded from kaggle.com and analysis was done by using Jupyter notebook
